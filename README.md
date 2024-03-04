@@ -1,6 +1,7 @@
 # Terraform
 About Terraform
 
+Structure explained
 ├── README.md
 ├── dev.tfvar
 ├── dev.tfvar.template
